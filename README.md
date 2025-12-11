@@ -6,6 +6,9 @@
 | Audrey Sasqhia Wijaya    | 5025221055   | 09        |
 | Amanda Illona Farrel     | 5025221056   | 09        |
 
+**Video Demo** <br>
+https://www.youtube.com/watch?v=BTx47l8Iv2Y&feature=youtu.be
+
 
 # Restaurant Rating Prediction (1–5)
 **TF-IDF vs Transformer vs Augmentation (EDA / Modified EDA / BERT Aug / Backtranslation)**
