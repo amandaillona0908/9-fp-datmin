@@ -21,6 +21,9 @@ Skenario:
 Fokus utama evaluasi adalah **F1 Macro** untuk menangkap performa pada kelas minoritas.
 
 # Dataset
+
+https://www.kaggle.com/datasets/denizbilginn/google-maps-restaurant-reviews/data
+
 Dataset berisi minimal kolom:
 - `text` : teks ulasan restoran
 - `rating` : label rating 1–5
