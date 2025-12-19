@@ -131,3 +131,7 @@ Untuk klasifikasi rating 1–5:
 - Distribusi label umumnya **tidak seimbang** (bias ke rating tinggi).
 - Model cenderung “aman” dengan memprediksi kelas dominan.
 - **F1 Macro** menjadi metrik penting karena menilai rata-rata performa tiap kelas.
+
+
+## Langkah Lanjutan
+- Melakukan pendistribusion ulang pada Data Train dan Data Test. Hasil evaluasi pada data test yang telah dibalance tidak dimaksudkan untuk merepresentasikan performa model pada distribusi data asli, melainkan untuk mengevaluasi performa model secara adil pada setiap kelas (F1-Macro). Untuk kodenya ada di file `6-testbalanced.ipynb`
